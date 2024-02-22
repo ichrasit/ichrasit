@@ -1,16 +1,60 @@
-### Hi there 👋 My Name is Rasit
+<h2 align="left">Hi 👋! My name is Rasit and I'm a from Turkey</h2>
 
-- 🔭 I’m currently working on ... 42 Ecole
-- 🌱 I’m currently learning ... 42 Piscine / Common-Core
-- 📫 How to reach me: ... ozmuhammedrasit4@gmail.com
-- My Website : https://www.rasitozs.tr.ht
+###
 
-### Skills
-<p>
-<img alt="C" src="https://camo.githubusercontent.com/5e9fa4e2ec01c27695b6315e9c27141b9aa760bbecac82339ba0135b22c46f7e/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f432d3532354445392e7376673f6c6f676f3d632d696e2d68657861676f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/C-525DE9.svg?logo=c-in-hexagon&amp;logoColor=white" style="max-width: 100%;">
-<img alt="HTML" src="https://camo.githubusercontent.com/c2fe2d0dc74bd59e5f2fcb0f9b4d9f61b085517f8051efcf91b41dc86a62646f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d3532354445392e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML-525DE9.svg?logo=html5&amp;logoColor=white" style="max-width: 100%;">
-<img alt="CSS" src="https://camo.githubusercontent.com/cfab4f02f34a56b85c2cf4fad86dd8df35ea7d6bd742031198c7ae1f88bbceed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3532354445392e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS-525DE9.svg?logo=css3&amp;logoColor=white" style="max-width: 100%;">
-<img alt="Git" src="https://camo.githubusercontent.com/90cd898c30ac136794ec67a81edf16dcbdbe07f7a56698e40a67ba1722cc09bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3532354445392e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465267374796c653d666c6174" data-canonical-src="https://img.shields.io/badge/Git-525DE9.svg?logo=git&amp;logoColor=white&amp;style=flat" style="max-width: 100%;">
-<img alt="Vim" src="https://camo.githubusercontent.com/42a1825c10286438fba7caf08e1dcff3411141aaf5575587d2cf28b4c03e00a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56696d2d3532354445392e7376673f6c6f676f3d76696d266c6f676f436f6c6f723d7768697465267374796c653d666c6174" data-canonical-src="https://img.shields.io/badge/Vim-525DE9.svg?logo=vim&amp;logoColor=white&amp;style=flat" style="max-width: 100%;">
-<img alt="Linux" src="https://camo.githubusercontent.com/6fb885e5b3021d436825d6e59127b9ac4170fb89a3c7438ae36794fda470a233/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d3532354445392e7376673f6c6f676f3d6c696e7578266c6f676f436f6c6f723d7768697465267374796c653d666c6174" data-canonical-src="https://img.shields.io/badge/Linux-525DE9.svg?logo=linux&amp;logoColor=white&amp;style=flat" style="max-width: 100%;">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ichrasit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ichrasit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFzMnZyaXRxYjJuc21uaGF4andnODh3YjQ3ZHJkZnpmcWUzMmdsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MvvefrwWYs0fTiE3ge/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="instagram.com/rasitozs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="twitch.tv/rashitbtw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="ozmuhammedrasit4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="bit.ly/3OQpAqn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="slack.com/muhaoz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ichrasit/ichrasit/output/snake.svg" alt="Snake animation" />
+
+###
