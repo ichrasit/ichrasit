@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFzMnZyaXRxYjJuc21uaGF4andnODh3YjQ3ZHJkZnpmcWUzMmdsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MvvefrwWYs0fTiE3ge/giphy.gif](https://rasitozs.tr.ht/assets/images/my-avatar.png)"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFzMnZyaXRxYjJuc21uaGF4andnODh3YjQ3ZHJkZnpmcWUzMmdsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MvvefrwWYs0fTiE3ge/giphy.gif"/>
 
 ###
 
