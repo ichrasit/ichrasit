@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rasit. I 20 years old and I live in Bursa.</h2>
+<h2 align="left">Hi 👋! My name is Rasit. I am 20 years old and I live in Bursa.</h2>
 
 ###
 
