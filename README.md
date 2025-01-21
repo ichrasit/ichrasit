@@ -1,4 +1,4 @@
-<h2 align="left">Hi!👋 It's me Muhammet who is 20 years old.</h2>
+<h2 align="left">Hi!👋 I am Muhammet Rasit Oz and I am 21 years old.</h2>
 
 ###
 
