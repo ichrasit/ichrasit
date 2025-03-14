@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Muhammet Rasit Oz and I am learner at 42 Turkiye.<br>
+I am Muhammet Rasit Oz and I am student at 42 Turkiye.<br>
 
 
 ## 🌐 Socials:
