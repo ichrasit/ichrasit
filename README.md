@@ -1,38 +1,52 @@
-# Hello 👋, I'm Muhammet Raşit Öz
+<h1 align="center">Hi there, I'm Muhammet Raşit Öz 👋</h1>
+<h3 align="center">Software Developer | 42 Türkiye Student | Low-Level Enthusiast</h3>
 
-I’m Muhammet Raşit Öz, a 22-year-old software developer currently studying at 42 Türkiye.
-
-I have experience in C and C++, along with a basic knowledge of Python. I focus on improving my skills in low-level programming and building efficient, well-structured systems.
-
-I am continuously learning and aiming to grow as a developer by working on practical and impactful projects.
-
-## Contact Me
-<p><a href="https://www.linkedin.com/in/rasitozs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/rasitozs" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://instagram.com/rasitozs" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
-
-## Skills
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<p align="center">
+<!-- Profil görüntülenme sayacı (YOUR_GITHUB_USERNAME kısmını kendi kullanıcı adınla değiştir) -->
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR_GITHUB_USERNAME%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Profile Views" />
 </p>
 
-## GitHub Stats
+👨‍💻 About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=ichrasit&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+I'm a 22-year-old software developer currently studying at 42 Türkiye. I have a strong foundation in systems programming and love diving deep into how things work under the hood.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichrasit&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+🎓 Current Focus: Studying at 42 Türkiye, improving my skills in low-level programming, and building efficient, well-structured systems.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ichrasit&theme=default" alt="GitHub Streak" />
+💻 Experience: Proficient in C and C++, with foundational knowledge of Python.
 
-<img src="https://profile-counter.glitch.me/ichrasit/count.svg?" alt="visitors count" />
+🌱 Always Learning: I am continuously aiming to grow as a developer by working on practical and impactful projects.
 
-## GitHub Trophies
+👯 Open to: Collaboration on C/C++ projects, open-source contributions, and challenging system architecture problems.
 
-<img src="https://github-profile-trophy.vercel.app/?username=ichrasit" alt="trophy" />
+🛠️ Tech Stack & Tools
 
-## GitHub Activity Graph
+<p align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bash-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Bash" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ichrasit&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+📊 GitHub Stats
 
+<p align="center">
+<!-- İstatistik kartları (YOUR_GITHUB_USERNAME kısımlarını kendi kullanıcı adınla değiştir) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight"/>
+</a>
+</p>
+
+📫 Let's Connect
+
+<p align="center">
+<!-- İletişim bilgilerinizi buraya ekleyin -->
+<a href="mailto:your.email@example.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
+</a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+</p>
