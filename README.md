@@ -49,8 +49,8 @@ I'm a 22-year-old software developer studying at **42 Türkiye**, with a strong 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ichrasit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichrasit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ichrasit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ichrasit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
@@ -64,7 +64,7 @@ I'm a 22-year-old software developer studying at **42 Türkiye**, with a strong 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ichrasit&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=ichrasit&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
